@@ -1,8 +1,8 @@
 
 <!-- Headings -->
-# Heading 1
-## Heading 2
-### Heading 3
+# Web and App development
+## Alexander Williams
+### Markdown Practice
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
