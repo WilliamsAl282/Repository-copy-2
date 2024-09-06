@@ -14,5 +14,8 @@ print(age)
 
 
 ## About Me
+<ul>**I like to hunt**
+*I like to eat chicken*
+</ul>
 **I like to hunt**
 *I like to eat chicken*
